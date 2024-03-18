@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/paulohcardoson.github.io/static/css/main.9dd0f402.css",
-    "main.js": "/paulohcardoson.github.io/static/js/main.bdba87dc.js",
-    "index.html": "/paulohcardoson.github.io/index.html",
-    "main.9dd0f402.css.map": "/paulohcardoson.github.io/static/css/main.9dd0f402.css.map",
-    "main.bdba87dc.js.map": "/paulohcardoson.github.io/static/js/main.bdba87dc.js.map"
+    "main.css": "/static/css/main.9dd0f402.css",
+    "main.js": "/static/js/main.9d597165.js",
+    "index.html": "/index.html",
+    "main.9dd0f402.css.map": "/static/css/main.9dd0f402.css.map",
+    "main.9d597165.js.map": "/static/js/main.9d597165.js.map"
   },
   "entrypoints": [
     "static/css/main.9dd0f402.css",
-    "static/js/main.bdba87dc.js"
+    "static/js/main.9d597165.js"
   ]
 }
