@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paulohcardoso.github.io/static/css/main.9dd0f402.css",
+    "main.js": "/paulohcardoso.github.io/static/js/main.34bfc8e5.js",
+    "index.html": "/paulohcardoso.github.io/index.html",
+    "main.9dd0f402.css.map": "/paulohcardoso.github.io/static/css/main.9dd0f402.css.map",
+    "main.34bfc8e5.js.map": "/paulohcardoso.github.io/static/js/main.34bfc8e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9dd0f402.css",
+    "static/js/main.34bfc8e5.js"
+  ]
+}
